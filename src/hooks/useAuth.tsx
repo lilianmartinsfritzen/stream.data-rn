@@ -88,12 +88,13 @@ function AuthProvider({ children }: AuthProviderData) {
 
         // set user state with response from Twitch API's route "/users"
         const data = userResponse.data.data[0] as User
-        setUser({
+        const userLogged = {
           id: data.id,
           display_name: data.display_name,
           profile_image_url: data.profile_image_url,
           email: data.email,
-        })
+        }
+        setUser(userLogged)
         // set userToken state with response's access_token from startAsync
         setUserToken(authResponse.params.access_token)
       }
