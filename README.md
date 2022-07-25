@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="#desafio">DESAFIO III</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#desafio">DESAFIO IV</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#I">I</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#requisitos">Requisitos</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
@@ -12,7 +12,7 @@
 <a href="https://github.com/lilianmartinsfritzen">
   <img src="https://img.shields.io/static/v1?label=self-learning&message=LMF&color=49AA26&labelColor=000000" alt="Self Learning Lílian Martins Fritzen" />
 </a>
-<a href="https://github.com/lilianmartinsfritzen/save-pass-rn/blob/main/LICENSE">
+<a href="https://github.com/lilianmartinsfritzen/stream.data-rn/blob/main/LICENSE">
   <img alt="License" src="https://img.shields.io/static/v1?label=license&message=MIT&color=49AA26&labelColor=000000" />
 </a>
 </p>
@@ -29,7 +29,7 @@
 <br>
 
 <h2 id="desafio">
-  🚀 DESAFIO III - IGNITE <a href="https://www.rocketseat.com.br/">Rocketseat
+  🚀 DESAFIO IV - IGNITE <a href="https://www.rocketseat.com.br/">Rocketseat
 </a>
 </h2>
 
@@ -128,7 +128,7 @@ npx react-native run-ios && npm start
 
 <h2 id="licenca">📃 Licença</h2>
 
-Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](https://github.com/lilianmartinsfritzen/save-pass-rn/blob/main/LICENSE) para mais detalhes.
+Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](https://github.com/lilianmartinsfritzen/stream.data-rn/blob/main/LICENSE) para mais detalhes.
 
 <br>
 
